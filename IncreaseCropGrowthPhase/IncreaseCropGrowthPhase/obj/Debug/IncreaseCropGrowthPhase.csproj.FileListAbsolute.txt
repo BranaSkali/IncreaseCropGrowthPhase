@@ -1,0 +1,6 @@
+F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\bin\Debug\IncreaseCropGrowthPhase.dll
+F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\bin\Debug\IncreaseCropGrowthPhase.pdb
+F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\obj\Debug\IncreaseCropGrowthPhase.csproj.CoreCompileInputs.cache
+F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\obj\Debug\IncreaseCropGrowthPhase.dll
+F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\obj\Debug\IncreaseCropGrowthPhase.pdb
+F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\obj\Debug\IncreaseCropGrowthPhase.csproj.AssemblyReference.cache
