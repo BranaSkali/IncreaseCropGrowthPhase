@@ -5,7 +5,7 @@ namespace IncreaseCropGrowthPhase.Framework
 {
     internal class KeyBindConfig
     {
-        /// <summary>The button held to grow crops around the player.</summary>
+        //get and set keybind from config.json
         public KeybindList GrowCropsKey { get; set; } = new KeybindList();
 
     }
