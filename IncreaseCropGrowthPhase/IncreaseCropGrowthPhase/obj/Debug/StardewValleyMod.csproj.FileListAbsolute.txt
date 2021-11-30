@@ -1,6 +1,0 @@
-F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\obj\Debug\StardewValleyMod.csproj.AssemblyReference.cache
-F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\obj\Debug\StardewValleyMod.csproj.CoreCompileInputs.cache
-F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\bin\Debug\StardewValleyMod.dll
-F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\bin\Debug\StardewValleyMod.pdb
-F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\obj\Debug\StardewValleyMod.dll
-F:\Visual Studio\repos\StardewValleyMod\StardewValleyMod\obj\Debug\StardewValleyMod.pdb
