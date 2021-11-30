@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Microsoft.Xna.Framework;
 using StardewModdingAPI;
 using StardewModdingAPI.Events;
@@ -28,6 +28,7 @@ namespace IncreaseCropGrowthPhase
         {
             helper.Events.Input.ButtonPressed += this.OnButtonPressed;
             
+            //read config.json file for keybind
             this.Config = helper.ReadConfig<KeyBindConfig>();
 
 
@@ -77,7 +78,7 @@ namespace IncreaseCropGrowthPhase
             if (!Context.IsWorldReady)
                 return;
 
-            //if F1 button is used on keyboard then enter if statement
+            //if Sbutton equals config.json keybind then enter loop
             if (e.Button.ToString().Contains(Config.GrowCropsKey.ToString()))
             {
                 //Reference the GrowPlant method
