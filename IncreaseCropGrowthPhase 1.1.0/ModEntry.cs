@@ -48,7 +48,7 @@ namespace IncreaseCropGrowthPhase
             {
 
                 //if crop regrows and is fully grown enter if statement
-                if ((instance.terrainFeatures[new Vector2(location.X, location.Y)] as HoeDirt).crop.regrowAfterHarvest.Get() > -1 & ((instance.terrainFeatures[new Vector2(location.X, location.Y)] as HoeDirt).crop.fullyGrown == true))
+                if ((instance.terrainFeatures[new Vector2(location.X, location.Y)] as HoeDirt).crop.RegrowsAfterHarvest() & ((instance.terrainFeatures[new Vector2(location.X, location.Y)] as HoeDirt).crop.fullyGrown == true))
                 {
                     //grow crop completely thus setting regrowable crop back to harvest phase
                     (instance.terrainFeatures[new Vector2(location.X, location.Y)] as HoeDirt).crop.growCompletely();
